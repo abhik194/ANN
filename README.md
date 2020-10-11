@@ -1,7 +1,9 @@
-# DataScience
+# ANN(Artificial Neural Network)
 
-Predicting the price of a house.
+1) Predicting the price of a house.
 
 Kaggle Data Set:
 
 https://www.kaggle.com/harlfoxem/housesalesprediction
+
+2) Breast cancer Wisconsin (diagnostic) dataset.
